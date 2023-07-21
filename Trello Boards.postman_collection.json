@@ -1,0 +1,53 @@
+{
+	"info": {
+		"_postman_id": "9b980687-e44b-4e7f-852c-093af1d4102d",
+		"name": "Trello Boards",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26653621",
+		"_collection_link": "https://crimson-desert-5969.postman.co/workspace/Trello-documentation~3f88b4c6-c829-4858-a5d3-30f097c1ade8/collection/26653621-9b980687-e44b-4e7f-852c-093af1d4102d?action=share&creator=26653621&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Create a Board",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base url}}/1/boards/?name=New board&key={{key}}&token={{token}}",
+					"host": [
+						"{{base url}}"
+					],
+					"path": [
+						"1",
+						"boards",
+						""
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "New board"
+						},
+						{
+							"key": "key",
+							"value": "{{key}}"
+						},
+						{
+							"key": "token",
+							"value": "{{token}}"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
