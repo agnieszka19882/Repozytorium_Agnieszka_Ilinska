@@ -1,3 +1,10 @@
 # Repozytorium_Agnieszka_Ilinska
 
-Courses
+<!DOCTYPE html>
+<html>
+     <head>
+     </head>
+     <body>
+         <h2>Courses</h2>
+     </body>
+</html>
