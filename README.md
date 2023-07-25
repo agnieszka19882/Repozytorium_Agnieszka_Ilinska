@@ -6,9 +6,9 @@
      </head>
      <body>
          <h2>Courses</h2>
-         <ol>
+         <ul>
             <li>Postman - REST API testing</li>
             <li>GIT for Beginners</li>
-         </ol>
+         </ul>
      </body>
 </html>
