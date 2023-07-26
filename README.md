@@ -1,6 +1,6 @@
 # Repozytorium_Agnieszka_Ilinska
 
-Courses
+## **Courses**
 
-Postman - REST API testing
-GIT for Beginners
+* Postman - REST API testing
+* GIT for Beginners
