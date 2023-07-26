@@ -2,5 +2,7 @@
 
 ## **Courses**
 
-* Postman - REST API testing
-* GIT for Beginners
+- Postman - REST API testing
+- GIT for Beginners
+- The Profession: Tester course
+- Certificate Remote Software Testing Intership
