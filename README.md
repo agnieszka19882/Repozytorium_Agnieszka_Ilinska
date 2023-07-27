@@ -16,6 +16,6 @@
 ## **My favorite blogs**
 
 - [testerzy.pl](https://testerzy.pl/)
-- wyszkolewas.com.pl
-- digitallyher.pl
-- bialko.eu/blog
+- [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+- [digitallyher.pl](https://digitallyher.pl/)
+- [bialko.eu/blog](https://bialko.eu/blog/)
