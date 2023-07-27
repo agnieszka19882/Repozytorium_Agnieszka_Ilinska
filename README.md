@@ -15,7 +15,7 @@
 
 ## **My favorite blogs**
 
-- testerzy.pl
+- [testerzy.pl](https://testerzy.pl/)
 - wyszkolewas.com.pl
 - digitallyher.pl
 - bialko.eu/blog
