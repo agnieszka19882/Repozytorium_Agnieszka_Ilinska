@@ -14,3 +14,8 @@
 - Podróż przez świat testowania Karolina Pawłowska Natalia Pawlak
 
 ## **My favorite blogs**
+
+- testerzy.pl
+- wyszkolewas.com.pl
+- digitallyher.pl
+- bialko.eu/blog
