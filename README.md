@@ -2,10 +2,10 @@
 
 ## **Courses**
 
-- Postman - REST API testing
-- GIT for Beginners
-- The Profession: Tester course
-- Certificate Remote Software Testing Intership
+- [Postman - REST API testing](https://www.udemy.com/certificate/UC-23a52995-514f-4c0f-86eb-213f89f1512b/)
+- [GIT for Beginners](https://www.udemy.com/certificate/UC-abccd7f4-638d-49a3-9534-c0227cfbde4f/)
+- [The Profession: Tester course](http://edu.ittraining.pl/pokaz_dyplom/en/8549)
+- [Certificate Remote Software Testing Intership](http://edu.ittraining.pl/pokaz_dyplom/en/8730)
 
 ## **Books**
 
