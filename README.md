@@ -1,3 +1,9 @@
+Hello everyone!
+
+Once a researcher, I am now an aspiring software tester.
+
+I invite to my repository.
+
 # Repozytorium_Agnieszka_Ilinska
 
 ## **Courses**
