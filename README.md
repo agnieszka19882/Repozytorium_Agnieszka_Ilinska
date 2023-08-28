@@ -2,7 +2,7 @@ Hello everyone!
 
 Once a researcher, I am now an aspiring software tester.
 
-I invite to my repository.
+I invite you to my repository.
 
 # Repozytorium_Agnieszka_Ilinska
 
