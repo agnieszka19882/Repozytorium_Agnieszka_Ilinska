@@ -13,7 +13,7 @@ I invite you to my repository.
 - [The Profession: Tester course](http://edu.ittraining.pl/pokaz_dyplom/en/8549)
 - [Certificate Remote Software Testing Intership](http://edu.ittraining.pl/pokaz_dyplom/en/8730)
 - Practical Software Testing Course
-	- API testing - Postman
+	- REST API - Postman(Repozytorium_Agnieszka_Ilinska/main/JSONPlaceholder.postman_collection.json)
 
 ## **Books**
 
