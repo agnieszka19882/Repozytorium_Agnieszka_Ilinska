@@ -12,8 +12,8 @@ I invite you to my repository.
 - [GIT for Beginners](https://www.udemy.com/certificate/UC-abccd7f4-638d-49a3-9534-c0227cfbde4f/)
 - [The Profession: Tester course](http://edu.ittraining.pl/pokaz_dyplom/en/8549)
 - [Certificate Remote Software Testing Intership](http://edu.ittraining.pl/pokaz_dyplom/en/8730)
-- Practical Software Testing Course
-	- REST API - Postman
+- Practical Software Tester Course - Udemy
+	- [API testing - Postman] (JSONPlaceholder.postman_collection.json)
 
 ## **Books**
 
