@@ -1,6 +1,6 @@
 ## **PROJECTS**
 
-## **Courses** ![elearning](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/82f61361-4968-436e-965a-f550f2afb39f)    
+## **Courses** ![Alt text](search-book.png)
 
 - [Postman - REST API testing](https://www.udemy.com/certificate/UC-23a52995-514f-4c0f-86eb-213f89f1512b/)
   - acquainting oneself with the Postman tool;
@@ -36,7 +36,7 @@
   - Knowledge of the OWASP ZAP program
   - Conducting performance tests with JMeter
 
-## **Books**![Alt text](books.png)
+## **Books**![Alt text](books-1.png)
 
 - Zawód Tester || Radosław Smilgin
 - Certyfikowany Tester ISTQB || Adam Roman Lucjan Stapp
