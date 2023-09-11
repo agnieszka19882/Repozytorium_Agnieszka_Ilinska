@@ -1,4 +1,4 @@
-## **PROJECTS**
+## **Projects** ![Alt text](binary-program.png)
 
 ## **Courses** ![Alt text](search-book.png)
 
