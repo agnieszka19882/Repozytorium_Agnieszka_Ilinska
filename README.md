@@ -36,7 +36,7 @@
   - Knowledge of the OWASP ZAP program
   - Conducting performance tests with JMeter
 
-## **Books**![Alt text](books-1.png)
+## **Books** ![Alt text](books-1.png)
 
 - Zawód Tester || Radosław Smilgin
 - Certyfikowany Tester ISTQB || Adam Roman Lucjan Stapp
