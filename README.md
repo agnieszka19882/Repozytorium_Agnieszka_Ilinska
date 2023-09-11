@@ -1,27 +1,40 @@
-Hello everyone!
+## **PROJECTS**
 
-Once a researcher, I am now an aspiring software tester.
-
-I invite you to my repository.
-
-# Repozytorium_Agnieszka_Ilinska
-
-## **Courses**
+![Alt text](elearning.png)## **Courses**
 
 - [Postman - REST API testing](https://www.udemy.com/certificate/UC-23a52995-514f-4c0f-86eb-213f89f1512b/)
-    - Acquainting oneself with the Postman tool;
-    - REST API testing;
-    - Sending requests;
-    - Defining variables;
-    - Defining environments;
-    - Running tests on the command line;
-    - Adding tests to a requests;
-    - Testing web applications.
+  - acquainting oneself with the Postman tool;
+  - REST API testing;
+  - sending requests;
+  - defining variables;
+  - defining environments;
+  - running tests on the command line;
+  - adding tests to a requests;
+  - testing web applications.
 - [GIT for Beginners](https://www.udemy.com/certificate/UC-abccd7f4-638d-49a3-9534-c0227cfbde4f/)
+  - what is version control and why is it worth using it;
+  - creating a local repository;
+  - adding files to the repository and tracking changes in those files;
+  - creating a repository on GitHub;
+  - reverting introduced changes;
+  - introduction to TortoiseGit;
+  - pushing changes from local repository to GitHub.
 - [The Profession: Tester course](http://edu.ittraining.pl/pokaz_dyplom/en/8549)
 - [Certificate Remote Software Testing Intership](http://edu.ittraining.pl/pokaz_dyplom/en/8730)
 - Practical Software Tester Course - Udemy
-	- [API testing - Postman](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/blob/main/JSONPlaceholder.postman_collection.json)
+  - testing theory
+  - writing test cases
+  - reporting bugs
+  - familiarity with Jira
+  - familiarity with TestLink tool
+  - using Chrome DevTools
+  - using the Browserstack platform
+  - basic knowledge of Postman
+  - API testing
+  - getting to know of SQL
+  - getting to know the version control system GIT
+  - Knowledge of the OWASP ZAP program
+  - Conducting performance tests with JMeter
 
 ## **Books**
 
