@@ -1,8 +1,6 @@
 ## **PROJECTS**
 
-![Alt text](elearning.png)
-
-## **Courses**
+## **Courses** ![Alt text](elearning.png)
 
 - [Postman - REST API testing](https://www.udemy.com/certificate/UC-23a52995-514f-4c0f-86eb-213f89f1512b/)
   - acquainting oneself with the Postman tool;
