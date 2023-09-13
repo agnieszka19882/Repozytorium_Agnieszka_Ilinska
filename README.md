@@ -28,7 +28,7 @@ Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasip
 - [Certificate Remote Software Testing Intership](http://edu.ittraining.pl/pokaz_dyplom/en/8730)
 - Practical Software Tester Course - Udemy
 
-testing theory  ||  writing test cases  || reporting bugs  ||  familiarity with Jira  ||  familiarity with TestLink tool  ||  using Chrome DevTools  ||  using the Browserstack platform  ||  basic knowledge of Postman  ||  API testing  ||  getting to know of SQL  ||  getting to know the version control system GIT              ||  knowledge of the OWASP ZAP program  || conducting performance tests with JMeter
+  testing theory  ||  writing test cases  || reporting bugs  ||  familiarity with Jira  ||  familiarity with TestLink tool  ||  using Chrome DevTools  ||  using the    Browserstack platform  ||  basic knowledge of Postman  ||  API testing  ||  getting to know of SQL  ||  getting to know the version control system GIT                ||  knowledge of the OWASP ZAP program  || conducting performance tests with JMeter
 
 ## **Books** ![Alt text](books-1.png)
 
