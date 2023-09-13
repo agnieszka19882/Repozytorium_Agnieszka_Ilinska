@@ -19,14 +19,7 @@ Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasip
 ## **Courses** ![Alt text](search-book.png)
 
 - [Postman - REST API testing](https://www.udemy.com/certificate/UC-23a52995-514f-4c0f-86eb-213f89f1512b/)
-  - acquainting oneself with the Postman tool;
-  - REST API testing;
-  - sending requests;
-  - defining variables;
-  - defining environments;
-  - running tests on the command line;
-  - adding tests to a requests;
-  - testing web applications.
+  acquainting oneself with the Postman tool || REST API testing || sending requests || defining variables || defining environments || running tests on the command line || adding tests to a requests || testing web applications.
 - [GIT for Beginners](https://www.udemy.com/certificate/UC-abccd7f4-638d-49a3-9534-c0227cfbde4f/)
   - what is version control and why is it worth using it;
   - creating a local repository;
