@@ -1,6 +1,7 @@
 ## **Projects** ![Alt text](binary-program.png)
 
 Tasks as a part of remote software testing internship (the "profession: Tester" course)
+
 Scope:
 
 - acquiring information about PWA;
@@ -9,7 +10,7 @@ Scope:
 - choosing any app created as a PWA and executing the prepared test cases;
 - writing a report on the test execution results.
 
-Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
+![Alt text](check.png)Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
 
 ## **Courses** ![Alt text](search-book.png)
 
