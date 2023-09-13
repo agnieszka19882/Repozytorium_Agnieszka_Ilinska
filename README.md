@@ -1,5 +1,16 @@
 ## **Projects** ![Alt text](binary-program.png)
 
+Tasks as a part of remote software testing internship (the "profession: Tester" course)
+Scope:
+
+- acquiring information about PWA;
+- ariting a test plan in accordance with PWA assumptions;
+- creating test cases, where each test case should correspond to one of the main PWA principles;
+- choosing any app created as a PWA and executing the prepared test cases;
+- writing a report on the test execution results.
+
+Check my work here
+
 ## **Courses** ![Alt text](search-book.png)
 
 - [Postman - REST API testing](https://www.udemy.com/certificate/UC-23a52995-514f-4c0f-86eb-213f89f1512b/)
