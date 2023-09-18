@@ -14,7 +14,7 @@ Tasks as a part of remote software testing internship (the "profession: Tester" 
 
 ![Alt text](check-6.png) writing a report on the test execution results.
 
-![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/85c552c0-ad1d-4e77-88c0-1f07503cbe40)    Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
+![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/85c552c0-ad1d-4e77-88c0-1f07503cbe40)    Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)  (The document has several tabs)
 
 2. Scope of works:
 
@@ -26,7 +26,7 @@ Tasks as a part of remote software testing internship (the "profession: Tester" 
 
 ![Alt text](check-6.png)  Designing at least ten tests and arranging them into a test scenario.
 
-![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/fffa492e-4eb9-4a9f-a0e7-4283297e87c2)    Check my work [here](https://docs.google.com/spreadsheets/d/1Gl17JbQzXLryAW5nPIMUWahwxHP0P4zH/edit?usp=sharing&ouid=104107815686527296524&rtpof=true&sd=true)
+![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/fffa492e-4eb9-4a9f-a0e7-4283297e87c2)    Check my work [here](https://docs.google.com/spreadsheets/d/1Gl17JbQzXLryAW5nPIMUWahwxHP0P4zH/edit?usp=sharing&ouid=104107815686527296524&rtpof=true&sd=true) The document has several tabs
 
 ## **Courses** ![Alt text](search-book.png)
 
