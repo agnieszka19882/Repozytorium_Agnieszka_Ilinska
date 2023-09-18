@@ -14,6 +14,8 @@ Tasks as a part of remote software testing internship (the "profession: Tester" 
 
 ![Alt text](check-6.png) writing a report on the test execution results.
 
+Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
+
 2. Scope of works:
 
 ![Alt text](check-5.png)  testing the specification for substantive correctness and quality; 
@@ -24,10 +26,7 @@ Tasks as a part of remote software testing internship (the "profession: Tester" 
 
 ![Alt text](check-6.png)  Designing at least ten tests and arranging them into a test scenario.
 
-Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
-
-
-2. Check my work [here](https://docs.google.com/spreadsheets/d/1Gl17JbQzXLryAW5nPIMUWahwxHP0P4zH/edit?usp=sharing&ouid=104107815686527296524&rtpof=true&sd=true)
+Check my work [here](https://docs.google.com/spreadsheets/d/1Gl17JbQzXLryAW5nPIMUWahwxHP0P4zH/edit?usp=sharing&ouid=104107815686527296524&rtpof=true&sd=true)
 
 ## **Courses** ![Alt text](search-book.png)
 
