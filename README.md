@@ -13,7 +13,8 @@ Tasks as a part of remote software testing internship (the "profession: Tester" 
 ![Alt text](check-5.png) choosing any app created as a PWA and executing the prepared test cases;
 
 ![Alt text](check-6.png) writing a report on the test execution results.
-![right-arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/7f4c9f0f-b987-49d6-9eb1-7148e88659f0)    Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
+
+![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/85c552c0-ad1d-4e77-88c0-1f07503cbe40)    Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
 
 2. Scope of works:
 
