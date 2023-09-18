@@ -16,6 +16,7 @@ Tasks as a part of remote software testing internship (the "profession: Tester" 
 
 Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
 2. Scope of works:
 
 ![Alt text](check-5.png)  testing the specification for substantive correctness and quality; 
