@@ -3,6 +3,7 @@
 Tasks as a part of remote software testing internship (the "profession: Tester" course)
 
 TASK 1
+
 Scope of works:
 
 ![Alt text](check-2.png) acquiring information about PWA;
@@ -18,6 +19,7 @@ Scope of works:
 ![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/85c552c0-ad1d-4e77-88c0-1f07503cbe40)    Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true). The document has several tabs.
 
 TASK 2
+
 Scope of works:
 
 ![Alt text](check-5.png)  testing the specification for substantive correctness and quality; 
