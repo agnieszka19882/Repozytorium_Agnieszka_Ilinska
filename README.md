@@ -2,7 +2,7 @@
 
 Tasks as a part of remote software testing internship (the "profession: Tester" course)
 
-Scope:
+1. Scope of works:
 
 ![Alt text](check-2.png) acquiring information about PWA;
 
@@ -14,7 +14,20 @@ Scope:
 
 ![Alt text](check-6.png) writing a report on the test execution results.
 
+2. Scope of works:
+
+![Alt text](check-5.png)  testing the specification for substantive correctness and quality; 
+
+![Alt text](check-6.png)  reporting on quality and optionally reporting defects; 
+
+![Alt text](check-6.png)  designing an optimal test template for this task; 
+
+![Alt text](check-6.png)  Designing at least ten tests and arranging them into a test scenario.
+
 Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
+
+
+2. Check my work [here](https://docs.google.com/spreadsheets/d/1Gl17JbQzXLryAW5nPIMUWahwxHP0P4zH/edit?usp=sharing&ouid=104107815686527296524&rtpof=true&sd=true)
 
 ## **Courses** ![Alt text](search-book.png)
 
