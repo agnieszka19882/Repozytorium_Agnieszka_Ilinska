@@ -14,7 +14,7 @@ Tasks as a part of remote software testing internship (the "profession: Tester" 
 
 ![Alt text](check-6.png) writing a report on the test execution results.
 
-Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
+![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/7ad3d62d-4214-460d-8616-6facab14a44d)  Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
 
 2. Scope of works:
 
