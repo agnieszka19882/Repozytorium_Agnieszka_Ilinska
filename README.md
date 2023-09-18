@@ -2,7 +2,7 @@
 
 Tasks as a part of remote software testing internship (the "profession: Tester" course)
 
-TASK 1
+**TASK 1**
 
 Scope of works:
 
