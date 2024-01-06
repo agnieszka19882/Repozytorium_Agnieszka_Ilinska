@@ -1,5 +1,7 @@
 ## **Projects** ![Alt text](binary-program.png)
 
+PROJECT 1
+
 Testing REST API using Postman ![Alt text](266642508-6b4d1dd0-2689-499e-8ce7-df95627716ba.png) (tasks within the [Dare IT](https://www.linkedin.com/company/dare-it/) mentoring program)
 
 Scope:
@@ -11,6 +13,8 @@ Scope:
 ![Alt text](check-2.png) Reporting bugs.
 
 ![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/85c552c0-ad1d-4e77-88c0-1f07503cbe40) Check my work [here](https://docs.google.com/spreadsheets/d/1dguhE44Iz3g3c9YbgdKPh9wxw5TfER8q/edit?usp=sharing&ouid=104107815686527296524&rtpof=true&sd=true). The document has several tabs.
+
+PROJECT 2
 
 Tasks as a part of remote software testing internship (the "profession: Tester" course)
 
