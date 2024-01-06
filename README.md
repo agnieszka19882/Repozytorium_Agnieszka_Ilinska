@@ -14,7 +14,9 @@ Check my work [here]
 
 Tasks as a part of remote software testing internship (the "profession: Tester" course)
 
-Scope:
+**TASK 1**
+
+Scope of works:
 
 ![Alt text](check-2.png) acquiring information about PWA;
 
@@ -26,7 +28,21 @@ Scope:
 
 ![Alt text](check-6.png) writing a report on the test execution results.
 
-Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true)
+![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/85c552c0-ad1d-4e77-88c0-1f07503cbe40)    Check my work [here](https://docs.google.com/spreadsheets/d/1hAcqFeDmrII07bAasipygr_fTDeJqqfH/edit?usp=drive_link&ouid=104107815686527296524&rtpof=true&sd=true). The document has several tabs.
+
+**TASK 2**
+
+Scope of works:
+
+![Alt text](check-5.png)  testing the specification for substantive correctness and quality; 
+
+![Alt text](check-6.png)  reporting on quality and optionally reporting defects; 
+
+![Alt text](check-6.png)  designing an optimal test template for this task; 
+
+![Alt text](check-6.png)  designing at least ten tests and arranging them into a test scenario.
+
+![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/fffa492e-4eb9-4a9f-a0e7-4283297e87c2)    Check my work [here](https://docs.google.com/spreadsheets/d/1Gl17JbQzXLryAW5nPIMUWahwxHP0P4zH/edit?usp=sharing&ouid=104107815686527296524&rtpof=true&sd=true). The document has several tabs.
 
 ## **Courses** ![Alt text](search-book.png)
 
