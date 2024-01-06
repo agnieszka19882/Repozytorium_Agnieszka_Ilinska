@@ -10,7 +10,7 @@ Scope:
 
 ![Alt text](check-2.png) Reporting bugs.
 
-![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/85c552c0-ad1d-4e77-88c0-1f07503cbe40) Check my work [here]. The document has several tabs.
+![arrow](https://github.com/agnieszka19882/Repozytorium_Agnieszka_Ilinska/assets/132834736/85c552c0-ad1d-4e77-88c0-1f07503cbe40) Check my work [here](https://docs.google.com/spreadsheets/d/1dguhE44Iz3g3c9YbgdKPh9wxw5TfER8q/edit?usp=sharing&ouid=104107815686527296524&rtpof=true&sd=true). The document has several tabs.
 
 Tasks as a part of remote software testing internship (the "profession: Tester" course)
 
