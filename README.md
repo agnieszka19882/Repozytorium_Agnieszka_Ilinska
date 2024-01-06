@@ -1,6 +1,6 @@
 ## **Projects** ![Alt text](binary-program.png)
 
-**$${\color{Green}PROJECT 1}$$**
+**{\color{Green}PROJECT 1}**
 
 Testing REST API using Postman ![Alt text](266642508-6b4d1dd0-2689-499e-8ce7-df95627716ba.png) (tasks within the [Dare IT](https://www.linkedin.com/company/dare-it/) mentoring program)
 
